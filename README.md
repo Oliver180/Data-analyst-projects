@@ -27,7 +27,7 @@ Logistic regression was performed to confirm results of the previous steps. Mult
 
 ## Conclusions 
 
-1) Analysis result indicated that we cannot reject the old web page design
-2) The variable: Country, which is an additional variable used to record the origin of the users, did not improve the accuracy of the prediction and analysis.
+- Analysis result indicated that we cannot reject the old web page design
+- The variable: Country, which is an additional variable used to record the origin of the users, did not improve the accuracy of the prediction and analysis.
 
 Disclaimer: Please ask for permission before copying/using the information/contents published in this project. 
